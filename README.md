@@ -10,7 +10,7 @@ Ryan
 For the tech folks in the room, I'll continue to add some details about how evMote is built.  
 
 evMote Web Application
-(!)[Build Status](https://api.shippable.com/projects/5627f439954d220c0045f24a/badge/master)
+[![Build Status](https://api.shippable.com/projects/5627f439954d220c0045f24a/badge/master)]
 
 evMote GPS Tracking service
 https://api.shippable.com/projects/56232f8f1895ca44741e7058/badge/master
