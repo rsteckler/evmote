@@ -5,6 +5,7 @@ This repo only exists for bug tracking and feature requests.  Please see the bug
 [evMote Bug Tracker](https://github.com/rsteckler/evmote/issues)
 
 Thanks!
+
 Ryan
 
 For the tech folks in the room, I'll continue to add some details about how evMote is built.  
